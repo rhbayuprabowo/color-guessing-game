@@ -17,7 +17,7 @@ setupAllModeButtonListener();
 //add event listener to squares
 setupAllSquareListener();
 //create new game
-newGame(numberColors);
+newGame(numberColors)
 
 
 //All FUNCTION GO HERE
